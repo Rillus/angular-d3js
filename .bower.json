@@ -1,0 +1,26 @@
+{
+  "name": "angular-d3js",
+  "dependencies": {
+    "angular": ">0.9.0"
+  },
+  "main": "dist/angular-d3js.js",
+  "ignore": [
+    ".*",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "package.json"
+  ],
+  "homepage": "https://github.com/Rillus/angular-d3js",
+  "_release": "6624a11bfb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6624a11bfb056405fe10bae60c9afee4f2dda8ec"
+  },
+  "_source": "https://github.com/Rillus/angular-d3js.git",
+  "_target": "*",
+  "_originalSource": "angular-d3js",
+  "_direct": true
+}
