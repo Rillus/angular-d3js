@@ -18,7 +18,7 @@
                 scriptTag.async = true;
                 var online = false;
                 if (online) {
-                    scriptTag.src = 'http://d3js.org/d3.v3.min.js';
+                    scriptTag.src = '//d3js.org/d3.v3.min.js';
                 } else {
                     scriptTag.src = 'bower_components/d3/d3.min.js';
                 }
